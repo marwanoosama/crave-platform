@@ -1,0 +1,9 @@
+# Local scratch — not tracked
+.env
+.env.local
+node_modules/
+dist/
+*.log
+.DS_Store
+.idea/
+.vscode/
